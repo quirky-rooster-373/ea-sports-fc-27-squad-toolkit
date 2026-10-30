@@ -1,0 +1,22 @@
+{
+  "name": "ea-sports-fc-27-squad-toolkit",
+  "displayName": "EA Sports FC 27 Squad Toolkit",
+  "programType": "squad-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Squad notes",
+    "Tactic cards",
+    "Session records"
+  ],
+  "topics": [
+    "ea-sports-fc-27-squad-toolkit",
+    "ea-sports-fc-27-tools",
+    "ea-sports-fc-27-menu",
+    "ea-sports-fc-27-settings",
+    "ea-sports-fc-27-configs",
+    "ea-sports-fc-27-squad-notes",
+    "ea-sports-fc-27-tactic-cards"
+  ]
+}
